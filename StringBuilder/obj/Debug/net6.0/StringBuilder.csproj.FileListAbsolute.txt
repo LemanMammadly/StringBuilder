@@ -1,0 +1,15 @@
+/Users/imac/Desktop/StringBuilder/StringBuilder/bin/Debug/net6.0/StringBuilder
+/Users/imac/Desktop/StringBuilder/StringBuilder/bin/Debug/net6.0/StringBuilder.deps.json
+/Users/imac/Desktop/StringBuilder/StringBuilder/bin/Debug/net6.0/StringBuilder.runtimeconfig.json
+/Users/imac/Desktop/StringBuilder/StringBuilder/bin/Debug/net6.0/StringBuilder.dll
+/Users/imac/Desktop/StringBuilder/StringBuilder/bin/Debug/net6.0/ref/StringBuilder.dll
+/Users/imac/Desktop/StringBuilder/StringBuilder/bin/Debug/net6.0/StringBuilder.pdb
+/Users/imac/Desktop/StringBuilder/StringBuilder/obj/Debug/net6.0/StringBuilder.csproj.AssemblyReference.cache
+/Users/imac/Desktop/StringBuilder/StringBuilder/obj/Debug/net6.0/StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/imac/Desktop/StringBuilder/StringBuilder/obj/Debug/net6.0/StringBuilder.AssemblyInfoInputs.cache
+/Users/imac/Desktop/StringBuilder/StringBuilder/obj/Debug/net6.0/StringBuilder.AssemblyInfo.cs
+/Users/imac/Desktop/StringBuilder/StringBuilder/obj/Debug/net6.0/StringBuilder.csproj.CoreCompileInputs.cache
+/Users/imac/Desktop/StringBuilder/StringBuilder/obj/Debug/net6.0/StringBuilder.dll
+/Users/imac/Desktop/StringBuilder/StringBuilder/obj/Debug/net6.0/ref/StringBuilder.dll
+/Users/imac/Desktop/StringBuilder/StringBuilder/obj/Debug/net6.0/StringBuilder.pdb
+/Users/imac/Desktop/StringBuilder/StringBuilder/obj/Debug/net6.0/StringBuilder.genruntimeconfig.cache

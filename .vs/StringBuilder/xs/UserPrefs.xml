@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{7F51A896-AB98-4905-8FE6-66CCFDDE5242}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StringBuilder/Builder/CustomBuilder.cs">
+    <Files>
+      <File FileName="StringBuilder/Program.cs" />
+      <File FileName="StringBuilder/Builder/CustomBuilder.cs" Line="90" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StringBuilder" expanded="True">
+            <Node name="StringBuilder" expanded="True">
+              <Node name="Builder" expanded="True">
+                <Node name="CustomBuilder.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.StringBuilder PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
